@@ -8,12 +8,11 @@ A web tool that extracts and visualizes your LeetCode statistics in a clean dash
 
 ![image](https://github.com/user-attachments/assets/14626600-72b4-41e4-854c-95590522d087)
 
+![image](https://github.com/user-attachments/assets/987a07ed-9940-46d0-95c5-5bfc4bf45dc3)
+
 
 ## Features ✨
 - 📊 **Progress Visualization**: Circular graphs for Easy/Medium/Hard problems
 - 🏆 **Key Metrics**: Acceptance rate, ranking, contribution points
 - 🔍 **User Search**: Find any LeetCode user's public stats
 - 📱 **Responsive Design**: Works on desktop and mobile
-
-## How to Use 🛠️
-1. **Live Demo**: [GitHub Pages Link](#) <!-- Add after deployment -->
