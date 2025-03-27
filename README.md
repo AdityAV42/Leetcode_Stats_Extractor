@@ -1,5 +1,4 @@
 # LeetCode Stats Extractor 🚀
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 A web tool that extracts and visualizes your LeetCode statistics in a clean dashboard.
 
