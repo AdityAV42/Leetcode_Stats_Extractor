@@ -16,3 +16,7 @@ A web tool that extracts and visualizes your LeetCode statistics in a clean dash
 - 🏆 **Key Metrics**: Acceptance rate, ranking, contribution points
 - 🔍 **User Search**: Find any LeetCode user's public stats
 - 📱 **Responsive Design**: Works on desktop and mobile
+
+Account Examples:
+1) leetcode
+2) votrubac
