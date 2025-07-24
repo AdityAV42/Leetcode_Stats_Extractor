@@ -20,3 +20,5 @@ A web tool that extracts and visualizes your LeetCode statistics in a clean dash
 Account Examples:
 1) leetcode
 2) votrubac
+3) lakshayk12
+4) wvefvebvevb  ---> username does not exist
